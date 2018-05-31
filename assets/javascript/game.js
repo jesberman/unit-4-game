@@ -406,6 +406,20 @@ $("#ls-attack").click(function() {
      }
 
 
+
+
+
+    
+    if (lsEnemyHp < 1) {
+    
+        alert("Congratulations!  You've defeated Luke Skywalker!  Pick a new opponent.")
+    
+    }
+    
+
+    
+
+
 });
 
 
@@ -476,7 +490,11 @@ $("#obw-attack").click(function() {
 
     }
 
-
+    if (obwEnemyHp < 1) {
+    
+        alert("Congratulations!  You've defeated Obiwan!  Pick a new opponent.")
+    
+    }
 
 });
 
@@ -550,7 +568,11 @@ $("#dm-attack").click(function() {
     }
 
 
-
+    if (dmEnemyHp < 1) {
+    
+        alert("Congratulations!  You've defeated Darth Maul!  Pick a new opponent.")
+    
+    }
 
 });
 
@@ -627,11 +649,39 @@ $("#ds-attack").click(function() {
     }
 
   
-
-
+    if (dsEnemyHp < 1) {
+    
+        alert("Congratulations!  You've defeated Darth Sidious!  Pick a new opponent.")
+    
+    }
+    
 
 
 });
 
 
+
+if (obwEnemyHp < 1) {
+
+    alert("Congratulations!  You've defeated Obiwan!  Pick a new opponent.")
+
+}
+
+if (lsEnemyHp < 1) {
+
+    alert("Congratulations!  You've defeated Luke Skywalker!  Pick a new opponent.")
+
+}
+
+if (dmEnemyHp < 1) {
+
+    alert("Congratulations!  You've defeated Darth Maul!  Pick a new opponent.")
+
+}
+
+if (dsEnemyHp < 1) {
+
+    alert("Congratulations!  You've defeated Darth Sidious!  Pick a new opponent.")
+
+}
 
