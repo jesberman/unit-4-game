@@ -1,5 +1,4 @@
-# unit-4-game
-Star Wars RPG
+# Star Wars RPG
 
 
 Hi, so this is my repository for the Star Wars RPG game.  It's fairly simple to use.  First, select the character you want to play as from among the four options in the "Selecet Your Character" section.  The four choices are: Obiwan Kenobi; Luke Skywalker; Darth Maul; and Darth Sidious.
