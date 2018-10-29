@@ -13,3 +13,8 @@ To win, you must defeat all three opponents without being killed yourself.  Note
 If you would like to try this program yourself, please visit the site listed below:
 
 https://jesberman.github.io/starwarsrpg.github.io/
+
+
+You can view a brief demo of how to use this program here:
+
+https://www.youtube.com/watch?v=Xdfe4Y41_p4
